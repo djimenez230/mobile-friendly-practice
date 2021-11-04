@@ -55,3 +55,7 @@ text {
   border: solid;
   float: left;
 }
+
+text {
+  font-size: 3rem;
+}
